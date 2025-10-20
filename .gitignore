@@ -18,3 +18,12 @@ override.tf.json
 crash.log
 terraform.tfvars
 *.exe
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.backup
+crash.log
+terraform.tfvars
+*.exe
