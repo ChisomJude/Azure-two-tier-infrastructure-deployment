@@ -9,3 +9,12 @@ override.tf
 override.tf.json
 *_override.tf
 *_override.tf.json
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.backup
+crash.log
+terraform.tfvars
+*.exe
